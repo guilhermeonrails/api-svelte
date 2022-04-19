@@ -7,6 +7,7 @@ class IngredienteSerializer(serializers.ModelSerializer):
         fields = '__all__'
 
 class ReceitaSerializer(serializers.ModelSerializer):
+    ingredientes = IngredienteSerializer(many=True)
     class Meta:
         model = Receita
-        fields = '__all__'
+        fields = ('nome', 'ingredientes', 'imagem')
