@@ -9,7 +9,7 @@ class Ingrediente(models.Model):
 
 class Receita(models.Model):
     nome = models.CharField(max_length=50)
-    ingredientes = models.ForeignKey(Ingrediente,on_delete=models.CASCADE, related_name='ingredientes')
+    ingredientes = models.ManyToManyField(Ingrediente, blank=True, related_name="ingrediente_id")
     imagem = models.ImageField(blank=True)
 
     def __str__(self):

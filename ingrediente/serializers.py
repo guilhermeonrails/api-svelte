@@ -4,10 +4,9 @@ from ingrediente.models import Ingrediente, Receita
 class IngredienteSerializer(serializers.ModelSerializer):
     class Meta:
         model = Ingrediente
-        fields = '__all__'
+        fields = ('id','nome', 'categoria',)
 
 class ReceitaSerializer(serializers.ModelSerializer):
-    ingredientes = IngredienteSerializer(many=True)
     class Meta:
         model = Receita
-        fields = ('nome', 'ingredientes', 'imagem')
+        fields = ('id','nome', 'imagem', 'ingredientes',)

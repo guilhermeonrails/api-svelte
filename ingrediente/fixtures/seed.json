@@ -1,0 +1,802 @@
+[
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 1,
+        "fields": {
+            "nome": "Ovos",
+            "categoria": "Laticínios e Ovos"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 2,
+        "fields": {
+            "nome": "Leite",
+            "categoria": "Laticínios e Ovos"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 3,
+        "fields": {
+            "nome": "Manteiga",
+            "categoria": "Laticínios e Ovos"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 4,
+        "fields": {
+            "nome": "Creme de Leite",
+            "categoria": "Laticínios e Ovos"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 5,
+        "fields": {
+            "nome": "Iogurte",
+            "categoria": "Laticínios e Ovos"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 6,
+        "fields": {
+            "nome": "Leite condensado",
+            "categoria": "Laticínios e Ovos"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 7,
+        "fields": {
+            "nome": "Sorvete",
+            "categoria": "Laticínios e Ovos"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 8,
+        "fields": {
+            "nome": "Fubá",
+            "categoria": "Farinhas e Fermentos"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 9,
+        "fields": {
+            "nome": "Povilho",
+            "categoria": "Farinhas e Fermentos"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 10,
+        "fields": {
+            "nome": "Linhaça",
+            "categoria": "Farinhas e Fermentos"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 11,
+        "fields": {
+            "nome": "Farinha de trigo",
+            "categoria": "Farinhas e Fermentos"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 12,
+        "fields": {
+            "nome": "Canjica",
+            "categoria": "Farinhas e Fermentos"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 13,
+        "fields": {
+            "nome": "Farinha de mandioca",
+            "categoria": "Farinhas e Fermentos"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 14,
+        "fields": {
+            "nome": "Fermento quíniomico",
+            "categoria": "Farinhas e Fermentos"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 15,
+        "fields": {
+            "nome": "Canela",
+            "categoria": "Temperos e especiarias"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 16,
+        "fields": {
+            "nome": "Cravo",
+            "categoria": "Temperos e especiarias"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 17,
+        "fields": {
+            "nome": "Orégano",
+            "categoria": "Temperos e especiarias"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 18,
+        "fields": {
+            "nome": "Noz moscada",
+            "categoria": "Temperos e especiarias"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 19,
+        "fields": {
+            "nome": "Tomilho",
+            "categoria": "Temperos e especiarias"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 20,
+        "fields": {
+            "nome": "Pimenta do Reino",
+            "categoria": "Temperos e especiarias"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 21,
+        "fields": {
+            "nome": "Cominho",
+            "categoria": "Temperos e especiarias"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 22,
+        "fields": {
+            "nome": "Vinagre",
+            "categoria": "Óleos, gorduras e Vinagres"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 23,
+        "fields": {
+            "nome": "Óleo",
+            "categoria": "Óleos, gorduras e Vinagres"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 24,
+        "fields": {
+            "nome": "Dendê",
+            "categoria": "Óleos, gorduras e Vinagres"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 25,
+        "fields": {
+            "nome": "Azeite de Oliva",
+            "categoria": "Óleos, gorduras e Vinagres"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 26,
+        "fields": {
+            "nome": "Banha",
+            "categoria": "Óleos, gorduras e Vinagres"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 27,
+        "fields": {
+            "nome": "Aceto Balsâmico",
+            "categoria": "Óleos, gorduras e Vinagres"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 28,
+        "fields": {
+            "nome": "Óleo de coco",
+            "categoria": "Óleos, gorduras e Vinagres"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 29,
+        "fields": {
+            "nome": "Cebola",
+            "categoria": "Hortaliças e Verduras"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 30,
+        "fields": {
+            "nome": "Alho",
+            "categoria": "Hortaliças e Verduras"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 31,
+        "fields": {
+            "nome": "Tomate",
+            "categoria": "Hortaliças e Verduras"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 32,
+        "fields": {
+            "nome": "Abóbora",
+            "categoria": "Hortaliças e Verduras"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 33,
+        "fields": {
+            "nome": "Abobrinha",
+            "categoria": "Hortaliças e Verduras"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 34,
+        "fields": {
+            "nome": "Batata",
+            "categoria": "Hortaliças e Verduras"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 35,
+        "fields": {
+            "nome": "Pimentão",
+            "categoria": "Hortaliças e Verduras"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 36,
+        "fields": {
+            "nome": "Espinafre",
+            "categoria": "Hortaliças e Verduras"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 37,
+        "fields": {
+            "nome": "Cenoura",
+            "categoria": "Hortaliças e Verduras"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 38,
+        "fields": {
+            "nome": "Açucar branco",
+            "categoria": "Açucares e Adoçantes"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 39,
+        "fields": {
+            "nome": "Açucar mascavo",
+            "categoria": "Açucares e Adoçantes"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 40,
+        "fields": {
+            "nome": "Açucar cristal",
+            "categoria": "Açucares e Adoçantes"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 41,
+        "fields": {
+            "nome": "Melado",
+            "categoria": "Açucares e Adoçantes"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 42,
+        "fields": {
+            "nome": "Mel",
+            "categoria": "Açucares e Adoçantes"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 43,
+        "fields": {
+            "nome": "Baunilha",
+            "categoria": "Açucares e Adoçantes"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 44,
+        "fields": {
+            "nome": "Glucose",
+            "categoria": "Açucares e Adoçantes"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 45,
+        "fields": {
+            "nome": "Xilito",
+            "categoria": "Açucares e Adoçantes"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 46,
+        "fields": {
+            "nome": "Stevia",
+            "categoria": "Açucares e Adoçantes"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 47,
+        "fields": {
+            "nome": "Peixe",
+            "categoria": "Proteínionas Animais"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 48,
+        "fields": {
+            "nome": "Carne bovina",
+            "categoria": "Proteínionas Animais"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 49,
+        "fields": {
+            "nome": "Carne de porco",
+            "categoria": "Proteínionas Animais"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 50,
+        "fields": {
+            "nome": "Frango",
+            "categoria": "Proteínionas Animais"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 51,
+        "fields": {
+            "nome": "Bacon",
+            "categoria": "Proteínionas Animais"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 52,
+        "fields": {
+            "nome": "Salsicha",
+            "categoria": "Proteínionas Animais"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 53,
+        "fields": {
+            "nome": "Atum",
+            "categoria": "Proteínionas Animais"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 54,
+        "fields": {
+            "nome": "Salmão",
+            "categoria": "Proteínionas Animais"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 55,
+        "fields": {
+            "nome": "Presunto",
+            "categoria": "Proteínionas Animais"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 56,
+        "fields": {
+            "nome": "Arroz",
+            "categoria": "Grãos, cerais e Leguminosas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 57,
+        "fields": {
+            "nome": "Feijão",
+            "categoria": "Grãos, cerais e Leguminosas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 58,
+        "fields": {
+            "nome": "Aveia",
+            "categoria": "Grãos, cerais e Leguminosas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 59,
+        "fields": {
+            "nome": "Ervilha",
+            "categoria": "Grãos, cerais e Leguminosas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 60,
+        "fields": {
+            "nome": "Lentilha",
+            "categoria": "Grãos, cerais e Leguminosas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 61,
+        "fields": {
+            "nome": "Grão de bico",
+            "categoria": "Grãos, cerais e Leguminosas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 62,
+        "fields": {
+            "nome": "Milho",
+            "categoria": "Grãos, cerais e Leguminosas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 63,
+        "fields": {
+            "nome": "Gergelim",
+            "categoria": "Grãos, cerais e Leguminosas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 64,
+        "fields": {
+            "nome": "Quinoa",
+            "categoria": "Grãos, cerais e Leguminosas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 65,
+        "fields": {
+            "nome": "Banana",
+            "categoria": "Frutas Frescas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 66,
+        "fields": {
+            "nome": "Maçã",
+            "categoria": "Frutas Frescas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 67,
+        "fields": {
+            "nome": "Uva",
+            "categoria": "Frutas Frescas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 68,
+        "fields": {
+            "nome": "Pera",
+            "categoria": "Frutas Frescas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 69,
+        "fields": {
+            "nome": "Limão",
+            "categoria": "Frutas Frescas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 70,
+        "fields": {
+            "nome": "Morango",
+            "categoria": "Frutas Frescas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 71,
+        "fields": {
+            "nome": "Ameixa",
+            "categoria": "Frutas Frescas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 72,
+        "fields": {
+            "nome": "Framboesa",
+            "categoria": "Frutas Frescas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 73,
+        "fields": {
+            "nome": "Acabaxi",
+            "categoria": "Frutas Frescas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 74,
+        "fields": {
+            "nome": "Nozes",
+            "categoria": "Frutas Secas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 75,
+        "fields": {
+            "nome": "Castanha de caju",
+            "categoria": "Frutas Secas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 76,
+        "fields": {
+            "nome": "Castanha do pará",
+            "categoria": "Frutas Secas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 77,
+        "fields": {
+            "nome": "Uva passa",
+            "categoria": "Frutas Secas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 78,
+        "fields": {
+            "nome": "Damasco",
+            "categoria": "Frutas Secas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 79,
+        "fields": {
+            "nome": "Tâmara",
+            "categoria": "Frutas Secas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 80,
+        "fields": {
+            "nome": "Pistache",
+            "categoria": "Frutas Secas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 81,
+        "fields": {
+            "nome": "Amêndoa",
+            "categoria": "Frutas Secas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 82,
+        "fields": {
+            "nome": "Amendoim",
+            "categoria": "Frutas Secas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 83,
+        "fields": {
+            "nome": "Pão",
+            "categoria": "Pães e Massas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 84,
+        "fields": {
+            "nome": "Pão síniorio",
+            "categoria": "Pães e Massas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 85,
+        "fields": {
+            "nome": "Tortilha",
+            "categoria": "Pães e Massas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 86,
+        "fields": {
+            "nome": "Macarrão",
+            "categoria": "Pães e Massas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 87,
+        "fields": {
+            "nome": "Nhoque",
+            "categoria": "Pães e Massas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 88,
+        "fields": {
+            "nome": "Massa de pastel",
+            "categoria": "Pães e Massas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 89,
+        "fields": {
+            "nome": "Massa de lasanha",
+            "categoria": "Pães e Massas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 90,
+        "fields": {
+            "nome": "Biscoito",
+            "categoria": "Pães e Massas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 91,
+        "fields": {
+            "nome": "Broa",
+            "categoria": "Pães e Massas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 92,
+        "fields": {
+            "nome": "Chocolate",
+            "categoria": "Doces e Guloseimas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 93,
+        "fields": {
+            "nome": "Geleia",
+            "categoria": "Doces e Guloseimas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 94,
+        "fields": {
+            "nome": "Goiabada",
+            "categoria": "Doces e Guloseimas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 95,
+        "fields": {
+            "nome": "Caramaelo",
+            "categoria": "Doces e Guloseimas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 96,
+        "fields": {
+            "nome": "Chantilly",
+            "categoria": "Doces e Guloseimas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 97,
+        "fields": {
+            "nome": "Cacau em pó",
+            "categoria": "Doces e Guloseimas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 98,
+        "fields": {
+            "nome": "Suspiro",
+            "categoria": "Doces e Guloseimas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 99,
+        "fields": {
+            "nome": "Gelatina",
+            "categoria": "Doces e Guloseimas"
+        }
+    },
+    {
+        "model": "ingrediente.ingrediente",
+        "pk": 100,
+        "fields": {
+            "nome": "Paçoca",
+            "categoria": "Doces e Guloseimas"
+        }
+    }
+]
